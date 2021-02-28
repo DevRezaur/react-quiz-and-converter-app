@@ -2,4 +2,4 @@
 
 This is a basic React practice project. It was submitted as my academic assignment on JavaScript.
 
-### HAve a nice day
+### Have a nice day
